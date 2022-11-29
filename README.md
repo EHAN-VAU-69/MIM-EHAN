@@ -20,4 +20,4 @@ cd MIM-EHAN
 
 ls
 
-python 
+python mimehan.py
