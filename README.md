@@ -1,5 +1,6 @@
 # MIM-EHAN
 Mim amr Bou 
+
 pkg update
 
 pkg upgrade
