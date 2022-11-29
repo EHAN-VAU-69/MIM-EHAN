@@ -13,7 +13,11 @@ pip install rich
 pip install bs4
 
 git clone https://github.com/ehanvau81/MIM-EHAN.git
+
 ls
+
 cd MIM-EHAN
+
 ls
+
 python 
